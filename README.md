@@ -1,6 +1,8 @@
 # AI_HeartDisease
 
-My Project: https://colab.research.google.com/drive/1UzKKPHHC7XRYm1M6VbNSD_FUMcc1DFhC?usp=sharing
+My Project: [https://colab.research.google.com/drive/1UzKKPHHC7XRYm1M6VbNSD_FUMcc1DFhC?usp=sharing](https://colab.research.google.com/drive/1XVEd9QiQOO6r13e41XZm6dMq7QugVfWd?usp=sharing)
+
+Security Implementations (Security in AI) & Project: https://colab.research.google.com/drive/1QR5CwWEf0BY-gY5xbsZSDFCS_Wb2kZJP?usp=sharing
 
 Credit for dataset goes to: Alex Taboul on Kaggle
 https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset/data
